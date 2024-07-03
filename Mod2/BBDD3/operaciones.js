@@ -1,3 +1,4 @@
+export * as ops from "./operaciones.js"
 
 function sumar(a, b) {
     return  a + b;
